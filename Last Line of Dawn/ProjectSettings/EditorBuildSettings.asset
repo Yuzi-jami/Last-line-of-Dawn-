@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/2d/Start.unity
+    guid: d2a8f062ca6ce594485040d8b8db8f14
+  - enabled: 1
+    path: Assets/Scenes/2d/room.unity
+    guid: a07ba761f550f254199278c4017c94f8
+  - enabled: 1
+    path: Assets/Scenes/2d/roon2.unity
+    guid: c283b345168026c40b122286ad001f08
   m_configObjects: {}
